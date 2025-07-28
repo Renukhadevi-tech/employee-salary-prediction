@@ -5,7 +5,7 @@ Built using: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 ## 📊 Model Output & Evaluation
 
 ### ✅ Classification Report & Accuracy
-* Accuracy: 83.6%
+* Accuracy: 84.2%
 * Precision, Recall, F1-score shown below.
 ![Accuracy_Result](accuracy_result.png)
 ---
