@@ -21,7 +21,7 @@ Built using: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 ---
 
 ### 📊 Feature Importance
-![Feature Importance](feature_importance_graph.png)
+![Feature Importance](feature_importance.png)
 
 ---
 
